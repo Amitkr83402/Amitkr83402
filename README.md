@@ -11,7 +11,9 @@
 
 <h3 align="left" style="color: #2c3e50;">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/amit-kumar-yadav-048b082a6" target="blank">
+  <a href="www.linkedin.com/in/
+amit-kumar-yadav-048b082a6
+" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amit-kumar-yadav-048b082a6" height="30" width="40" />
   </a>
   <a href="https://instagram.com/https://www.instagram.com/yaduvanshi_amit___/profilecard/?igsh=mwfooxjnzhlocjqxyg==" target="blank">
