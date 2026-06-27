@@ -4,7 +4,7 @@
 
 ---
 
-🔭 **Previously:** Sr. Representative, Operations at Tech Mahindra (ASOS – eCommerce) | Also contributed to UAT/Beta testing of enterprise CRM platform  
+🔭 **Previously:** Sr. Representative, Operations at Tech Mahindra Ltd. | Also contributed to UAT/Beta testing of enterprise CRM platform  
 👯 **Looking for:** QA Automation Engineer / SDET / Manual Testing roles  
 📫 **Reach me at:** amit1230kr@gmail.com  
 📍 **Location:** Noida, Uttar Pradesh, India  
