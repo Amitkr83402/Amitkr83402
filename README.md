@@ -1,59 +1,57 @@
-<h1 align="center" style="color: #2c3e50;">Hi 👋, I'm Amit Kumar Yadav</h1>
-<h3 align="center" style="color: #34495e;">A dedicated and detail-oriented QA professional from India</h3>
+# Hi 👋, I'm Amit Kumar Yadav
 
-<img align="right" alt="coding animation" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
+### QA Automation Engineer | Selenium • Java • Cucumber • BDD | Open to Opportunities
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkr83402&label=Profile%20views&color=0e75b6&style=flat" alt="amitkr83402" /> </p>
+---
 
-- 🔭"Actively seeking test automation and QA roles, focused on delivering high-quality, efficient solutions through advanced automation techniques." **Eclipse, VS Code, Maven, Selenium, Java, Cucumber, TestNG, BDD, etc.**
+🔭 **Currently:** Working at Tech Mahindra (ASOS – eCommerce) as QA/UAT Tester  
+🌱 **Learning:** API Testing with RestAssured & Postman  
+👯 **Looking for:** QA Automation Engineer / SDET roles  
+📫 **Reach me at:** 123amit987kumar@gmail.com  
+📍 **Location:** Noida, Uttar Pradesh, India  
 
-- 👯 How to reach me **amit1230kr@gmail.com**
+---
 
-<h3 align="left" style="color: #2c3e50;">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/amit-kumar-yadav-048b082a6" target="blank">LinkedIn</a>
-  <a href="https://www.instagram.com/yaduvanshi_amit___/profilecard/?igsh=mwfooxjnzhlocjqxyg==" target="blank">Instagram</a>
-</p>
+### 🔗 Connect with me:
 
-<h3 align="left" style="color: #2c3e50;">Languages and Tools:</h3>
-<table>
-  <tr>
-    <td>Java</td>
-    <td>JavaScript</td>
-    <td>Node.js</td>
-  </tr>
-  <tr>
-    <td>React.js</td>
-    <td>Selenium</td>
-    <td>Cucumber</td>
-  </tr>
-  <tr>
-    <td>Maven</td>
-    <td>TestNG</td>
-    <td>JUnit</td>
-  </tr>
-  <tr>
-    <td>Git</td>
-    <td>GitHub</td>
-    <td>Ubuntu</td>
-  </tr>
-  <tr>
-    <td>Linux</td>
-    <td>Microsoft Office</td>
-    <td>Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td>Vite</td>
-    <td>Microsoft Word</td>
-    <td>Jenkins</td>
-  </tr>
-  <tr>
-    <td>Eclipse IDE</td>
-    <td>Visual Studio</td>
-    <td></td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amit--kumar--yadav--tech-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amit-kumar-yadav-tech/)
+[![GitHub](https://img.shields.io/badge/GitHub-Amitkr83402-black?style=flat-square&logo=github)](https://github.com/Amitkr83402)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkr83402&show_icons=true&locale=en" alt="amitkr83402" /></p>
+---
 
+### 🛠️ Languages & Tools:
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+
+---
+
+### 📂 Featured Projects:
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [Your_Store](https://github.com/Amitkr83402/Your_Store) | BDD Automation Framework for E-Commerce Web App | Selenium, Cucumber, JUnit, Maven, Java |
+| [TutorialNinjaAutomation](https://github.com/Amitkr83402/TutorialNinjaAutomation) | Selenium automation for Tutorials Ninja demo site | Selenium, Java, Maven |
+
+---
+
+### 📊 GitHub Stats:
+
+![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitkr83402&show_icons=true&locale=en)
+
+---
+
+> ⭐ *"Quality is never an accident; it is always the result of intelligent effort."*
