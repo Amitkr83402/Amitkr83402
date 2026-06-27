@@ -2,16 +2,6 @@
 
 ### QA Automation Engineer | Selenium • Java • Cucumber • BDD | Open to Opportunities
 
----
-
-🔭 **Currently:** Working at Tech Mahindra (ASOS – eCommerce) as QA/UAT Tester  
-🌱 **Learning:** API Testing with RestAssured & Postman  
-👯 **Looking for:** QA Automation Engineer / SDET roles  
-📫 **Reach me at:** 123amit987kumar@gmail.com  
-📍 **Location:** Noida, Uttar Pradesh, India  
-
----
-
 ### 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amit--kumar--yadav--tech-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amit-kumar-yadav-tech/)
